@@ -1,0 +1,31 @@
+feh
+spectrwm
+xorg-server
+xorg-xinit
+xorg-apps
+
+acpi
+bc
+htop
+xterm
+rxvt-unicode
+pulseaudio
+pavucontrol
+
+asymptote
+texlive-core
+texlive-most
+texlive-lang
+
+wget
+vlc
+firefox
+
+ttf-dejavu
+noto-fonts
+adobe-source-han-sans-otc-fonts - Sans fonts
+adobe-source-han-serif-otc-fonts - Serif fonts
+noto-fonts-cjk
+
+git
+gvim
