@@ -30,9 +30,9 @@ map Q gq
 syntax on
 filetype plugin indent on
 
-" call plug#begin('~/.vim/plugged')
-"Plug 'junegunn/seoul256.vim'
-"call plug#end()
+call plug#begin('~/.vim/plugged')
+Plug 'junegunn/seoul256.vim'
+call plug#end()
 
 " hjkl to jkl;
 noremap j h
@@ -40,5 +40,5 @@ noremap k j
 noremap l k
 noremap ; l
 
-"let g:seoul256_background = 233
-"colo seoul256
+let g:seoul256_background = 236
+colo seoul256
